@@ -34,13 +34,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "Paulie",
-      "email": "Weenie",
-      "id": 1
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
