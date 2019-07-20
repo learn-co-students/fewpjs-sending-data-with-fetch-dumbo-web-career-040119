@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,128 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 1
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 2
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 3
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 4
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 5
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 6
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 7
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 8
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 9
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 10
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 11
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 12
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 13
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 14
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 15
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 16
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 17
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 18
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 19
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 20
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 21
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 22
+    },
+    {
+      "name": "Ernie",
+      "email": "blablah",
+      "id": 23
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
